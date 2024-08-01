@@ -1,4 +1,4 @@
 # first-Rishav
 first git reposistory
 <br>
-Writer- Rishav singh
+Writer- Rishav singh sanjoria
